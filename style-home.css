@@ -1,0 +1,51 @@
+.tituilo-principal {
+    padding-left: 30px;
+}
+
+#banner {
+    width: 100%;
+}
+
+/* DECLARACION DE UN SELECTOR DE CLASES*/
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    background: #CCCCCC;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+/* DECLARACION DE UN SELECTOR DE Id*/
+#mision {
+    font-size: 20px;
+}
+/* DECLARACION DE UN SELECTOR DE CLASES*/
+.diferienciales{
+    background: #ffffff;
+    padding: 30pz;
+}
+
+.items {
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imageneDiferenciales{
+    width: 50%;
+}
